@@ -3,3 +3,6 @@
 build/
 
 dest/
+
+# IDEA
+.idea/
